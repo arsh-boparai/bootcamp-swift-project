@@ -132,6 +132,7 @@
 		9529AC301FB392A3000C9BDC /* Course Project */ = {
 			isa = PBXGroup;
 			children = (
+				E9EEA7A920BE16AF00F5D5A2 /* Arsh_Project */,
 				95665F091FE9C82B001DE090 /* AraceliProject */,
 				9529AC3D1FB392A3000C9BDC /* Info.plist */,
 				9529AC311FB392A3000C9BDC /* AppDelegate.swift */,
@@ -241,6 +242,37 @@
 				95665F111FE9C82B001DE090 /* MasterViewController.swift */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		E9EEA7A920BE16AF00F5D5A2 /* Arsh_Project */ = {
+			isa = PBXGroup;
+			children = (
+				E9EEA7AC20BE16DC00F5D5A2 /* Model */,
+				E9EEA7AB20BE16D100F5D5A2 /* View */,
+				E9EEA7AA20BE16C500F5D5A2 /* Controller */,
+			);
+			path = Arsh_Project;
+			sourceTree = "<group>";
+		};
+		E9EEA7AA20BE16C500F5D5A2 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E9EEA7AB20BE16D100F5D5A2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E9EEA7AC20BE16DC00F5D5A2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
